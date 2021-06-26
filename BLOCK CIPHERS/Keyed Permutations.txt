@@ -1,0 +1,3 @@
+a bijection, bijective function, one-to-one correspondence, or invertible function
+một hàm lưỡng phân, hàm nhị phân, tương ứng một đối một hoặc hàm đảo ngược
+cryotp{bijection}
